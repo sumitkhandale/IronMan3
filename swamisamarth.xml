@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SumitFitness">
+  <suite-files>
+  <suite-file path="C:\Users\DELL\eclipse-workspace\CyberSecurity\firstsk.xml"></suite-file>
+  <suite-file path="C:\Users\DELL\eclipse-workspace\CyberSecurity\secondsk.xml"></suite-file>
+  <suite-file path="C:\Users\DELL\eclipse-workspace\CyberSecurity\thirdsk.xml"></suite-file>
+  
+  
+  </suite-files>
+</suite> <!-- Suite -->
